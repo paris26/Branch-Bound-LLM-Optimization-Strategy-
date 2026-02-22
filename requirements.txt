@@ -1,0 +1,7 @@
+pyscipopt>=4.0
+openai>=1.0
+numpy
+pandas
+pyyaml
+tqdm
+matplotlib
